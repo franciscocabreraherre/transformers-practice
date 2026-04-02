@@ -1,0 +1,2 @@
+{"inputs": ["How are you?"] , "targets": [0,1,2]}
+{"inputs": ["Are you okay?"] , "targets": [1,3,4]}
